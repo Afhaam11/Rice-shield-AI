@@ -293,7 +293,7 @@ Replace the placeholder links above with the actual profile, repository, and con
 
 ## 📄 License
 
-This project is described as being licensed under the **MIT License**. Include the full MIT license text in a `LICENSE` file in the repository to make the licensing terms explicit.
+This project is described as being licensed under the **MIT License**.
 
 ---
 
